@@ -1,0 +1,32 @@
+name: flutter_localizations_example
+description: A Flutter project for learning flutter_localizations package. A project support multi language.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  intl: ^0.17.0
+  cupertino_icons: ^1.0.2
+  path_provider: ^2.0.11
+  shared_preferences: ^2.0.15
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  generate: true
+  uses-material-design: true
+  assets:
+    - lib/language/en.json
+    - lib/language/ms.json
+    - lib/language/zh.json

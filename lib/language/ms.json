@@ -1,0 +1,60 @@
+{
+  "loading": {
+    "loading": "Sedang dimuatkan......",
+    "error": "Ralat"
+  },
+  "text": {
+    "popular": "Popular",
+    "breakfast": "Sarapan Pagi",
+    "add_special_request": "Tambah jika anda mempunyai permintaan khas ke restoran",
+    "dine_in": "Makan sini",
+    "take_away": "Bawa pulang",
+    "table_no": "Meja No.{TABLE_NO}",
+    "you_have": "Kamu ada",
+    "items": "{COUNT} item",
+    "voucher_text_no_voucher": "Tiada baucar ditebus",
+    "voucher_text_invalid_voucher": "Baucar tidak sah",
+    "voucher_text_voucher_redeemed": "Baucar telah berjaya ditebus",
+    "we_have_received": "Kami telah menerima tempahan anda, kami sedang menyediakan tempahan",
+    "customers_order": "Pesanan {NAME}",
+    "pending_confirmation": "Menunggu pengesahan",
+    "order_confirmed": "Pesanan disahkan",
+    "total_include": "Jumlah termasuk cukai & diskaun",
+    "voucher_not_available": "Maaf, baucar yang dipilih tidak tersedia untuk pesanan ini",
+    "order_selected": "{COUNT} pesanan dipilih"
+  },
+  "btn": {
+    "start_ordering": "Mula memesan",
+    "more_info": "Maklumat lanjut",
+    "view_all_review": "Lihat semua ulasan",
+    "review_order": "Semakan pesanan",
+    "more": "Lebih",
+    "less": "Kurang",
+    "add_to_cart": "Tambah ke troli",
+    "apply_voucher": "Tebus baucar",
+    "place_order": "Pesan",
+    "add_more_order": "Tambah lagi Pesanan",
+    "pay_now": "Bayar sekarang",
+    "pay_later": "Saya akan bayar bil kemudian"
+  },
+  "page_title": {
+    "home_page": "Laman Utama",
+    "scan_qr_code": "Imbas Kod QR"
+  },
+  "heading": {
+    "rating": "Penilaian",
+    "order_type": "Jenis pesanan",
+    "order_details": "Maklumat-maklumat Pesanan",
+    "order_summary": "Rumusan Pesanan"
+  },
+  "label": {
+    "subtotal": "Jumlah Kecil",
+    "gov_tax": "Cukai Kerajaan ({GOV_TAX_PERCENTAGE}%)",
+    "service_tax": "Cukai Perkhidmatan ({SERVICE_TAX_PERCENTAGE}%)",
+    "voucher": "Baucar",
+    "net_total": "Jumlah Bersih",
+    "date": "Tarikh: ",
+    "total": "Jumlah: ",
+    "discount": "Diskaun: "
+  }
+}

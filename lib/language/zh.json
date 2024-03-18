@@ -1,0 +1,60 @@
+{
+  "loading": {
+    "loading": "加载中...",
+    "error": "错误"
+  },
+  "text": {
+    "popular": "流行",
+    "breakfast": "早餐",
+    "add_special_request": "如果您对餐厅有特殊要求，请添加",
+    "dine_in": "堂食",
+    "take_away": "外带",
+    "table_no": "桌号 No.{TABLE_NO}",
+    "you_have": "您有",
+    "items": "{COUNT} 件商品",
+    "voucher_text_no_voucher": "未使用兑换券",
+    "voucher_text_invalid_voucher": "无效兑换卷",
+    "voucher_text_voucher_redeemed": "已使用兑换券",
+    "we_have_received": "我们已收到您的订单，我们正在准备此订单",
+    "customers_order": "{NAME}的订单",
+    "pending_confirmation": "等待确认",
+    "order_confirmed": "订单已确认",
+    "total_include": "总计含税和折扣",
+    "voucher_not_available": "抱歉，所选兑换券不适用于此订单",
+    "order_selected": "已选 {COUNT} 个订单"
+  },
+  "btn": {
+    "start_ordering": "开始点单",
+    "more_info": "了解更多",
+    "view_all_review": "查看所有评论",
+    "review_order": "查看订单",
+    "more": "展开",
+    "less": "收起",
+    "add_to_cart": "添加到购物车",
+    "apply_voucher": "使用兑换券",
+    "place_order": "下单",
+    "add_more_order": "添加更多订单",
+    "pay_now": "立即支付",
+    "pay_later": "我稍后会付帐"
+  },
+  "page_title": {
+    "home_page": "主页",
+    "scan_qr_code": "扫描二维码"
+  },
+  "heading": {
+    "rating": "评分",
+    "order_type": "订单类型",
+    "order_details": "订单详细信息",
+    "order_summary": "订单总结"
+  },
+  "label": {
+    "subtotal": "小计",
+    "gov_tax": "政府税 ({GOV_TAX_PERCENTAGE}%)",
+    "service_tax": "服务税 ({SERVICE_TAX_PERCENTAGE}%)",
+    "voucher": "兑换券",
+    "net_total": "净总值",
+    "date": "日期：",
+    "total": "总额：",
+    "discount": "折扣： "
+  }
+}

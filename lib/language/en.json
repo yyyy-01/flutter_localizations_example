@@ -1,0 +1,60 @@
+{
+  "loading": {
+    "loading": "Loading...",
+    "error": "Error"
+  },
+  "text": {
+    "popular": "Popular",
+    "breakfast": "Breakfast",
+    "add_special_request": "Add if you have special request to restaurant",
+    "dine_in": "Dine in",
+    "take_away": "Take away",
+    "table_no": "Table No.{TABLE_NO}",
+    "you_have": "You have",
+    "items": "{COUNT} item(s)",
+    "voucher_text_no_voucher": "No voucher is redeemed",
+    "voucher_text_invalid_voucher": "Invalid voucher",
+    "voucher_text_voucher_redeemed": "Voucher has successfully redeemed",
+    "we_have_received": "We have received your order, we are preparing the order",
+    "customers_order": "{NAME}'s order",
+    "pending_confirmation": "Pending confirmation",
+    "order_confirmed": "Order confirmed",
+    "total_include": "Total incl. tax & discount",
+    "voucher_not_available": "Sorry, selected voucher is not available for this order",
+    "order_selected": "Selected {COUNT} order(s)"
+  },
+  "btn": {
+    "start_ordering": "Start ordering",
+    "more_info": "More info",
+    "view_all_review": "View all Reviews",
+    "review_order": "Review order",
+    "more": "More",
+    "less": "Less",
+    "add_to_cart": "Add to cart",
+    "apply_voucher": "Apply voucher",
+    "place_order": "Place order",
+    "add_more_order": "Add more order",
+    "pay_now": "Pay Now",
+    "pay_later": "I will pay my bill later"
+  },
+  "page_title": {
+    "home_page": "Home Page",
+    "scan_qr_code": "Scan QR code"
+  },
+  "heading": {
+    "rating": "Rating",
+    "order_type": "Order type",
+    "order_details": "Order Details",
+    "order_summary": "Order Summary"
+  },
+  "label": {
+    "subtotal": "Subtotal",
+    "gov_tax": "Gov Tax ({GOV_TAX_PERCENTAGE}%)",
+    "service_tax": "Service Tax ({SERVICE_TAX_PERCENTAGE}%)",
+    "voucher": "Voucher",
+    "net_total": "Net Total",
+    "date": "Date: ",
+    "total": "Total: ",
+    "discount": "Discount: "
+  }
+}

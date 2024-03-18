@@ -1,0 +1,202 @@
+{
+    "language": "English",
+    "@language":{
+        "description": "The Current Language"
+    },
+    "homePage": "Home Page",
+    "@homePage": {
+        "description": "Appbar title for Home page"
+    },
+    "startOrdering": "Start ordering",
+    "@startOrdering": {
+        "description": "Text for button start ordering in Home page"
+    },
+    "scanQrCode": "Scan QR code",
+    "@scanQrCode": {
+        "description": "An instruction to scan QR Code"
+    },
+    "moreInfo": "More info",
+    "@moreInfo": {
+        "description": "A text for text button to show more info"
+    },
+    "rating": "Rating",
+    "@rating": {
+        "description": "A title text for a store Rating"
+    },
+    "viewAllReview": "View all Reviews",
+    "@viewAllReview": {
+        "description": "A text for text button to show all reviews in ratings"
+    },
+    "popular": "Popular",
+    "@popular": {
+        "description": "One of the category selections in menu"
+    },
+    "breakfast": "Breakfast",
+    "@breakfast": {
+        "description": "One of the category selection in menu"
+    },
+    "reviewOrder": "Review order",
+    "@reviewOrder": {
+        "description": "A text in button to review order"
+    },
+    "more": "More",
+    "@more": {
+        "description": "A text to expand the description in item"
+    },
+    "less": "Less",
+    "@less": {
+        "description": "A text to collapse the description in item"
+    },
+    "addSpecialRequest": "Add if you have special request to restaurant",
+    "@addSpecialRequest": {
+        "description": "Hint text for user to add special request if they want"
+    },
+    "addToCart": "Add to cart",
+    "@addToCart": {
+        "description": "A text in button to add item into cart"
+    },
+    "orderType": "Order type",
+    "@orderType": {
+        "description": "A title text for showing order type"
+    },
+    "dineIn": "Dine in",
+    "@dineIn": {
+        "description": "One of the order type, another is Take away"
+    },
+    "takeAway": "Take away",
+    "@takeAway": {
+        "description": "One of the order type, another is Dine in"
+    },
+    "tableNo": "Table no.",
+    "@tableNo": {
+        "description": "To show table number"
+    },
+    "youHave": "You have",
+    "@youHave": {
+        "description": "To show number of items in cart"
+    },
+    "items": "item(s)",
+    "@items": {
+        "description": "To show number of items in cart"
+    },
+    "applyVoucher": "Apply voucher",
+    "@applyVoucher": {
+        "description": "Text in button Apply voucher"
+    },
+    "voucherTextNoVoucher": "No voucher is redeemed",
+    "@voucherTextNoVoucher": {
+        "description": "Text below voucher text field. Show no voucher is redeemed"
+    },
+    "voucherTextInvalidVoucher": "Invalid voucher",
+    "@voucherTextInvalidVoucher": {
+        "description": "Text below voucher text field. Show voucher entered is invalid"
+    },
+    "voucherTextVoucherRedeemed": "Voucher has successfully redeemed",
+    "@voucherTextVoucherRedeemed": {
+        "description": "Text below voucher text field. Show voucher has successfully redeemed "
+    },
+    "subtotal": "Subtotal",
+    "@subtotal": {
+        "description": "Label to show subtotal of items in cart"
+    },
+    "govTax": "Gov Tax ({govTaxPercentage}%)",
+    "@govTax": {
+        "description": "Label to show Gov Tax of items in cart",
+        "placeholders": {
+            "govTaxPercentage": {
+                "type": "String"
+            }
+        }
+    },
+    "serviceTax": "Service Tax ({serviceTaxPercentage}%)",
+    "@serviceTax": {
+        "description": "Label to show Service Tax of items in cart",
+        "placeholders": {
+            "serviceTaxPercentage": {
+                "type": "String"
+            }
+        }
+    },
+    "voucher": "Voucher",
+    "@voucher": {
+        "description": "Label to show discount amount of items in cart when voucher is applied"
+    },
+    "netTotal": "Net Total",
+    "@netTotal": {
+        "description": "Label to show Net Total of items in cart"
+    },
+    "placeOrder": "Place order",
+    "@placeOrder": {
+        "description": "Text in button Place order"
+    },
+    "weHaveReceivedText": "We have received your order, we are preparing the order",
+    "@weHaveReceivedText": {
+        "description": "Text to inform customer the order is received and being prepared"
+    },
+    "orderDetails": "Order details",
+    "@orderDetails": {
+        "description": "Title Text for order type, date, and table no"
+    },
+    "date": "Date",
+    "@date": {
+        "description": "Label text for date"
+    },
+    "addMoreOrder": "Add more order",
+    "@addMoreOrder": {
+        "description": "Label text for button Add more order"
+    },
+    "orderSummary": "Order Summary",
+    "@orderSummary": {
+        "description": "Title text for order summary, shows orders in a list"
+    },
+    "customersOrder": "{name}'s order",
+    "@customersOrder": {
+        "description": "Label text for orders with customer's name",
+        "placeholders": {
+            "name": {
+                "type": "String"
+            }
+        }
+    },
+    "pendingConfirmation": "Pending confirmation",
+    "@pendingConfirmation": {
+        "description": "Label text for showing the confirmation is pending"
+    },
+    "orderConfirmed": "Order confirmed",
+    "@orderComfirmed": {
+        "description": "Label text for showing the order is confirmed"
+    },
+    "totalInclude": "Total incl. tax & discount",
+    "@totalInclude": {
+        "description": "Label text for mentioning the total in order summary is including tax and voucher discount"
+    },
+    "voucherNotAvailableText": "Sorry, selected voucher is not available for this order",
+    "@voucherNotAvailableText": {
+        "description": "Text to inform user voucher is not available in Order Summary page"
+    },
+    "orderSelected": "Selected {orderCount} order(s)",
+    "@orderSelected": {
+        "description": "Text next to check box, to show number of orders selected in order detail page",
+        "placeholders": {
+            "orderCount": {
+                "type": "String"
+            }
+        }
+    },
+    "total": "Total",
+    "@total": {
+        "description": "Label Text to show total payment in order detail page"
+    },
+    "discount": "Discount",
+    "@discount": {
+        "description": "Label text to show total discount for payment in order detail page"
+    },
+    "payNow": "Pay Now",
+    "@payNow": {
+        "description": "Text for button to pay now"
+    },
+    "payLater": "I will pay my bill later",
+    "@payLater": {
+        "description": "Text below the button pay now, customer can choose to pay later"
+    }
+}
